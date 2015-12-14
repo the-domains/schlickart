@@ -2,6 +2,7 @@ name: SchlickArt
 favicon: null
 layout_spectrum: 0.3597559130284935
 typography_spectrum: 0.7711897492408752
+title: SchlickArt
 cta:
   domain: null
   bucket: null

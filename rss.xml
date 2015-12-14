@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SchlickArt]]></title>
+        <description><![CDATA[SchlickArt]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 14 Dec 2015 01:46:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SchlickArt Studios Homepage]]></title>
+            <description><![CDATA[<article><h1>SchlickArt Studios Homepage</h1><p>Homepage</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e86f2b7cf9c00220a5e1e669c5bb851d66bde0d8.jpg"></article>]]></description>
+            <link>undefinedschlickart-studios-homepage/index.html</link>
+            <guid isPermaLink="false">69a802cc-82f0-4bd9-849a-c2f5df77b3e0</guid>
+            <pubDate>Mon, 14 Dec 2015 01:46:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

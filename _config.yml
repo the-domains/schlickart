@@ -1,6 +1,6 @@
 name: SchlickArt
 favicon: null
-layout_spectrum: 0.00764
+layout_spectrum: 1
 typography_spectrum: 0.90662
 title: SchlickArt
 cta:
@@ -24,6 +24,6 @@ color:
     - '#a8a8a8'
   brandStrength: 0.8578054988756776
   lightness: 1
-  saturation: 0.3125
+  saturation: 1
   rhythmicContrast: 0.5
 purpose: []

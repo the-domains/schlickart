@@ -4,21 +4,14 @@
         <description><![CDATA[SchlickArt]]></description>
         <link>https://thegrid.ai/schlickart/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 02:08:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Dec 2015 02:09:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/schlickart/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Us]]></title>
-            <description><![CDATA[<article><h1>About Us</h1><p>About Us Page</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/346f37b6c4e86b311d679f9d48c6a4918b69c2bf.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>About Us</h1><p>About Us Page</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6f1c107d5ee62d41de8cfa964b187d66043fc676.jpg"></article>]]></description>
             <link>https://thegrid.ai/schlickart/about-us/index.html</link>
             <guid isPermaLink="false">2629928d-1f06-4b24-8c7f-1fbe352756cc</guid>
             <pubDate>Mon, 14 Dec 2015 02:08:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SchlickArt Studios Homepage]]></title>
-            <description><![CDATA[<article><h1>SchlickArt Studios Homepage</h1><p>Homepage</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32544493ba059b041a7fde62e80067474ae97f7e.jpg"></article>]]></description>
-            <link>https://thegrid.ai/schlickart/schlickart-studios-homepage/index.html</link>
-            <guid isPermaLink="false">69a802cc-82f0-4bd9-849a-c2f5df77b3e0</guid>
-            <pubDate>Mon, 14 Dec 2015 01:46:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
